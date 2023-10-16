@@ -1,5 +1,5 @@
 # Semantically Guided Enhanced Fusion for Intent Detection and Slot Filling
-![image](https://github.com/USTBSCCE1028/SG/blob/main/img/structure.png)
+![image text](https://github.com/USTBSCCE1028/SG/blob/main/img/structure.png)
 \
 Please download the bert-base-uncased pre-training model into the root directory.\
 \
